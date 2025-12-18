@@ -6,10 +6,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎯 17yo Frontend Developer from Prague/Ostrava, Czech Republic
+- 🎯 17yo Frontend Developer from Ostrava, Czech Republic
 - 🚀 Learning: JavaScript, React, Next.js, Tailwind CSS
 - 🍎 Goal: Frontend Engineer at Apple
-- 💻 Building: Web apps, FiveM servers, Minecraft plugins, Roblox games
+- 💻 Building: Web apps
 
 ---
 
