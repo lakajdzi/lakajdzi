@@ -38,19 +38,6 @@
 
 ---
 
-## 🍎 Road to Apple
-
-- [x] Master HTML/CSS fundamentals
-- [x] Learn JavaScript basics & intermediate concepts
-- [x] Understand closures and scope
-- [ ] Complete async/await & promises mastery
-- [ ] Build 5+ portfolio projects with React
-- [ ] Learn TypeScript deeply
-- [ ] Get 1-2 years professional frontend experience
-- [ ] Apply to Apple Frontend Engineer role
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
